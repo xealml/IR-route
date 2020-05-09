@@ -1,0 +1,1 @@
+- [A Survey of Automatic Query Expansion in Information Retrieva](https://dl.acm.org/doi/10.1145/2071389.2071390)
